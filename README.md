@@ -150,6 +150,16 @@ The deployment should then be tested using a test automation tool (Selenium), an
 - [Grafana Documentation](https://grafana.com/docs/grafana/latest/)
 - [Prometheus Documentation](https://prometheus.io/docs/)
 
-## Contact
+## Thank You!
 
-For any questions or issues, please contact [Nachiket Shinde](mailto:nachiketshinde2001@gmail.com).
+Thank you for exploring our System!
+
+If you have any questions, feedback, or suggestions, please feel free to reach out to us. We're here to help!
+
+---
+
+**Name:** **Nachiket Shinde**  
+**Email:** nachiketshinde2001@gmail.com  
+**Phone:** 9960096257  
+**GitHub:** [Nachiket-01](https://github.com/Nachiket-01)  
+**LinkedIn:** [Nachiket Shinde](https://www.linkedin.com/in/nachiket-shinde01/)
