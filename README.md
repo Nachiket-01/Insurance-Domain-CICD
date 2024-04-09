@@ -12,7 +12,7 @@ This repository contains the code and configuration files for a web application 
 - Testing (Selenium)
 - CI/CD Tool (Jenkins)
 - Artifact Repository (Docker Hub)
-- Infrastructure as Code Tool (Ansible)
+- Infrastructure as Code Tool (Kubernets/Ansible)
 - Monitoring Tool (Grafana, Prometheus)
 
 ## Steps to Run ▶️
