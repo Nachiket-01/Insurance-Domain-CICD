@@ -7,6 +7,7 @@ This repository contains the code and configuration files for a web application 
 
 ## Prerequisites
 
+- Springboot Application
 - Git
 - Docker
 - Testing (Selenium)
